@@ -16,4 +16,4 @@ I direct AI agents; I don't write the code. Pipelines like next-bet are built by
 
 ### Reach me
 
-Drop me a note via LinkedIn (linked from this profile) or open an issue on any of my repos.
+[LinkedIn](https://www.linkedin.com/in/zfyfz/) or open an issue on any of my repos.
